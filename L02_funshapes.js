@@ -9,7 +9,7 @@ function setup(){
 function draw() {
     // ellipse(100,100,50,50);
     // ellipse(200,100,50,50);
-    circle
+    circle(300,200,)
     
   // Challenge 1: An eye using ellipse() function
 
