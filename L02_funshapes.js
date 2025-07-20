@@ -12,7 +12,7 @@ function draw() {
     // circle(300,200,100);
     // circle(350,200,80);
     // rect(50,50,80,150,300,300,300,300);
-    triangle(30,75,58,20)
+    triangle(30,75,58,20,86,75);
     triangle(20,40,75,40,57,32);
 
   // Challenge 1: An eye using ellipse() function
