@@ -7,9 +7,9 @@ function setup(){
     background(228,122,255);//0-255 background (r,g,b); r-red g-green b-blue
 }
 function draw() {
-    ellipse(100,100,80,50);
+    ellipse(100,100,0,50);
     ellipse(200,100,80,50);
-    circle()
+    
   // Challenge 1: An eye using ellipse() function
 
   // Challenge 2: A face using circle() function
