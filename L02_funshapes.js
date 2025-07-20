@@ -11,8 +11,8 @@ function draw() {
     // ellipse(200,100,50,50);
     // circle(300,200,100);
     // circle(350,200,80);
-    rect(50,50,80,150,300,300,300,300);
-    
+    // rect(50,50,80,150,300,300,300,300);
+
   // Challenge 1: An eye using ellipse() function
 
   // Challenge 2: A face using circle() function
