@@ -14,6 +14,7 @@ function draw() {
     // rect(50,50,80,150,300,300,300,300);
     fill(10,10,10); //r,g,b
     triangle(30,75,58,20,86,75);
+    fill(25,)
     triangle(20,40,75,40,57,32);
 
   // Challenge 1: An eye using ellipse() function
