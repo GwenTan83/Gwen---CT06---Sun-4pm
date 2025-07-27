@@ -4,7 +4,7 @@ function setup() {
     noLoop(); // Stops continuous drawing
   }
 let spacing=90;
-
+let colorValue
 
 function draw() {
     // circle(75,200,100);
