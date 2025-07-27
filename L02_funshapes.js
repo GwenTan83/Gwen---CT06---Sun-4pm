@@ -18,7 +18,7 @@ function draw() {
     // triangle(35,55,90,55,72,47);
     // quad(20,50,70,50,70,100,20,100);
     quad(20,50,100,50,100,100,20,100);
-    quad(120,150,180)
+    quad(120,150,180,130,180)
 
   // Challenge 1: An eye using ellipse() function
 
