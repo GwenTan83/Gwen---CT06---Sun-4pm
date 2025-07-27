@@ -5,11 +5,6 @@ function setup() {
   }
 let spacing=90;
 let colorValue=0;
-function setup() {
-    createCanvas(600, 400);
-    background(220);
-    noLoop(); // Stops continuous drawing
-  }
 function draw() {
     // circle(75,200,100);
     // circle(225,200,100);
