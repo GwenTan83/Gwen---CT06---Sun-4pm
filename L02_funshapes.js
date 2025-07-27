@@ -26,7 +26,7 @@ function draw() {
     // fill (255,0,0);
     quad(120,150,180,130,180,170,120,170);
     circle1(75,200,100)
-    circle2()
+    circle2(225,)
 
 
   // Challenge 1: An eye using ellipse() function
