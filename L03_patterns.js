@@ -3,7 +3,8 @@ function setup() {
     background(220);
     noLoop(); // Stops continuous drawing
   }
-let spacing  
+let spacing=50;
+ 
 function draw() {
     // circle(75,200,100);
     // circle(225,200,100);
