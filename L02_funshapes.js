@@ -19,6 +19,7 @@ function draw() {
     // quad(20,50,70,50,70,100,20,100);
     // quad(20,50,100,50,100,100,20,100);
     // fill(0,0,225) //fill(r,g,b)(0-255);
+    noFill();
     stroke(0,255,0); // colour for outline
     strokeWeight(10); // thickness
     quad(50,162,86,150,50,138,14,150);
