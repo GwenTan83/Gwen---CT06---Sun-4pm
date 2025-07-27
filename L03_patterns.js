@@ -10,7 +10,7 @@ function draw() {
     // circle(375,200,100);
     // circle(525,200,100);
     for(let i=0; i<4; i++) {
-      CSSNumericValue()
+      circle()
     }
   // Recap 1: Repeating Circles
 
