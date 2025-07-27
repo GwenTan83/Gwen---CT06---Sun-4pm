@@ -12,7 +12,7 @@ function draw() {
     // circle(525,200,100);
     for(let i=0; i<4; i++) {
       fill(i*spacing);
-      circle(50+i*50,200,40);
+      circle(spacing+i*spacing,200,40);
     }
   // Recap 1: Repeating Circles
 
