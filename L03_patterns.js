@@ -9,7 +9,9 @@ function draw() {
     // circle(225,200,100);
     // circle(375,200,100);
     // circle(525,200,100);
-    for(let i=0; i<4; i++) 
+    for(let i=0; i<4; i++) {
+      CSSNumericValue()
+    }
   // Recap 1: Repeating Circles
 
   // Task 1: Colour Gradient
