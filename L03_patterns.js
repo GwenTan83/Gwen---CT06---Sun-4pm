@@ -15,7 +15,7 @@ function draw() {
       fill(i*spacing);
       fill(colorValue%255)
       circle(spacing+i*spacing,200,40);
-      colorValue
+      colorValue +=1;
       
     }
   // Recap 1: Repeating Circles
