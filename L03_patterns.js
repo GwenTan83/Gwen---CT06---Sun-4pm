@@ -5,10 +5,10 @@ function setup() {
   }
   
 function draw() {
-    circle1(75,200,100);
-    circle2(225,200,100);
-    circle3(375,200,100);
-    circle4(525,200,100);
+    circle(75,200,100);
+    circle(225,200,100);
+    circle(375,200,100);
+    circle(525,200,100);
 
   // Recap 1: Repeating Circles
 
