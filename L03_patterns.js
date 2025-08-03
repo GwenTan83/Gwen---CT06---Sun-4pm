@@ -31,7 +31,7 @@ function draw() {
     let startX=diameter/2;
     let startY=(height-totalWidth)/2+diameter/2;
     for (let j=0; j<5; j++) {
-      let y = 
+      let y = startY+i*diameter
       for (let i=0; i<5; i++) {
           fill(0,0,i*50);
           // circle(startX+i*diameter,height/2,diameter);
