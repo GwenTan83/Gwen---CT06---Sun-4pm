@@ -24,17 +24,17 @@ function draw() {
     // rect(0,100,width,200);  
     // circle(width/2, height/2, 100);
     
-    let diameter = 50;
     let numCircles = 5;
     let totalWidth = diameter * numCircles;
     // let startX=(width-totalWidth)/2 + diameter/2;
     let startX=diameter/2;
     let startY=(height-totalWidth)/2+diameter/2;
     for (let j=0; j<5; j++) {
-      let y = startY + j*diameter
+      let y = startY + j*diameter;
       for (let i=0; i<5; i++) {
           fill(0,0,i*50);
-          numCircles(startX+i*diameter,y,diameter);
+          numCircles(startX+i*diameter,y,diameter);  let diameter = 50;
+  
           // circle(startX+i*diameter,height/2,diameter);
           //  circle(startX+i*diameter,diameter/2,diameter);
           
