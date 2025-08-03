@@ -17,7 +17,7 @@ function draw() {
       if(i%2===0){
         fill(0);
       } else{
-        fill(225)
+        fill(225);
       }
       circle(spacing+i*spacing,200,40);
       colorValue +=1;
