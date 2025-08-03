@@ -21,7 +21,7 @@ function draw() {
     //   }
     //   circle(spacing+i*spacing,200,40);
     //   // colorValue +=1;
-    rect  
+    rect(0,100,600,400)  
     circle(width/2, height/2, 100);
 
     
