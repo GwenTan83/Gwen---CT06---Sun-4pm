@@ -5,7 +5,7 @@ function setup() {
 //     // noLoop(); // Stops continuous drawing
 //   }
 //let spacing=90;
-let colorValue=0;
+//let colorValue=0;
 function draw() {
     // circle(75,200,100);
     // circle(225,200,100);
