@@ -20,7 +20,7 @@ function draw() {
         fill(225);
       }
       circle(spacing+i*spacing,200,40);
-      colorValue +=1;
+      // colorValue +=1;
       
     }
   // Recap 1: Repeating Circles
