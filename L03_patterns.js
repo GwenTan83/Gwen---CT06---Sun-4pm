@@ -3,7 +3,7 @@ function setup() {
     createCanvas(600, 400);
     background(220);
   //   // noLoop(); // Stops continuous drawing
-  // }
+}
 //let spacing=90;
 //let colorValue=0;
 function draw() {
@@ -35,4 +35,3 @@ function draw() {
   // Task 3: Row of Circles
 
   // Task 4: Grid of Circles
-}
