@@ -33,7 +33,7 @@ function draw() {
     for (let i=0; i<5; i++) {
       fill(0,0,i*50)
       // circle(startX+i*diameter,height/2,diameter);
-     ircle(startX+i*diameter,diameter/2,diameter); c
+     circle(startX+i*diameter,diameter/2,diameter);
 
     }
     
