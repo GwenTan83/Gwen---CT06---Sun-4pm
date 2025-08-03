@@ -21,7 +21,9 @@ function draw() {
     //   }
     //   circle(spacing+i*spacing,200,40);
     //   // colorValue +=1;
-      circle(width/2, height/2, 100);
+      
+    circle(width/2, height/2, 100);
+
     
     }
   // Recap 1: Repeating Circles
