@@ -34,9 +34,10 @@ function draw() {
       let y = startY + j*diameter
       for (let i=0; i<5; i++) {
           fill(0,0,i*50);
+          numCircles(startX=i*diameter,y,diameter);
           // circle(startX+i*diameter,height/2,diameter);
           //  circle(startX+i*diameter,diameter/2,diameter);
-          numCircles(startX=i*diameter,y,diameter);
+          
 
     }
     }
