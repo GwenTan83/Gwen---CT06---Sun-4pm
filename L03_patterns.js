@@ -28,6 +28,8 @@ function draw() {
     let numCircles=5;
     let totalWidth=diameter*numCircles;
     let startX=(idth-totalWidth)/2 + diameter/2;
+
+    
     
 
     
