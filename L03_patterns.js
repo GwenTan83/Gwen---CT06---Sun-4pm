@@ -25,6 +25,7 @@ function draw() {
     circle(width/2, height/2, 100);
     
     let diameter=30;
+    let numCircles=5;
     
     
 
