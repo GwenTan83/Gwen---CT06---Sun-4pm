@@ -35,7 +35,7 @@ function draw() {
       // circle(startX+i*diameter,height/2,diameter);
       circle(startX+i*diameter,diameter/2,diameter);
     }
-    c
+    
 
 
     
