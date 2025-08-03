@@ -14,7 +14,7 @@ function draw() {
     for(let i=0; i<4; i++) {
       fill(i*spacing);
       fill(colorValue%255)
-      if(i)
+      if(i%2===)
       circle(spacing+i*spacing,200,40);
       colorValue +=1;
       
