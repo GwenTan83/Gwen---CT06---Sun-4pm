@@ -2,26 +2,26 @@
 function setup() {
     createCanvas(600, 400);
     background(220);
-    // noLoop(); // Stops continuous drawing
-  }
-let spacing=90;
+//     // noLoop(); // Stops continuous drawing
+//   }
+//let spacing=90;
 let colorValue=0;
 function draw() {
     // circle(75,200,100);
     // circle(225,200,100);
     // circle(375,200,100);
     // circle(525,200,100);
-    for(let i=0; i<4; i++) {
-      // fill(i*spacing);
-      // fill(colorValue%255)
-      if(i%2===0){
-        fill(0);
-      } else{
-        fill(225);
-      }
-      circle(spacing+i*spacing,200,40);
-      // colorValue +=1;
-      
+    // for(let i=0; i<4; i++) {
+    //   // fill(i*spacing);
+    //   // fill(colorValue%255)
+    //   if(i%2===0){
+    //     fill(0);
+    //   } else{
+    //     fill(225);
+    //   }
+    //   circle(spacing+i*spacing,200,40);
+    //   // colorValue +=1;
+      circle(width/2, height/2, 100);
     
     }
   // Recap 1: Repeating Circles
