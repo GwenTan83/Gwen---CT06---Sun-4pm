@@ -30,7 +30,7 @@ function draw() {
     let startX=(idth-totalWidth)/2 + diameter/2;
 
     for(let i=0; i<5; i++) {
-      
+      circle(startX+i*diameter,height/2,diameter);
     }
 
 
