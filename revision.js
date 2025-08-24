@@ -9,6 +9,6 @@ function draw(){
     circle()
     circle()
     circle()
-    c
-
+    circle()
+    circle()
 }
