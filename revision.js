@@ -5,7 +5,7 @@ function setup(){
 }
 
 function draw(){
-rect(x,y,)
+rect(x,y,size,size)
 }
 
 
