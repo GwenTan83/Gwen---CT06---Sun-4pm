@@ -21,6 +21,7 @@ circleDiameter=50;
 
 function draw() {
     for(let i=0; i<5; i++) {
+        fill()
         ellipse(50 + i*50, 50 + i*50, circleDiameter, circleDiameter); 
     }
 }
