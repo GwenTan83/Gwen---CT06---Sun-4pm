@@ -4,6 +4,7 @@ function setup(){
     background(220); 
 }
 
+let size
 function draw(){
 rect(x,y,size,size)
 }
