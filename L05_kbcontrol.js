@@ -1,6 +1,7 @@
 // write your codes here
 
 let shapeColor = 'yellow';
+
 function setup(){
     createCanvas(600,600);
     background(220);
@@ -8,5 +9,6 @@ function setup(){
 }
 
 function draw(){
+    fill 
 
 }
