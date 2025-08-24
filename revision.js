@@ -10,4 +10,4 @@ function draw(){
 }
 
 
-// Exercise 2: Draw 5 circles for horizontally
+// Exercise 2: Draw 5 circles 
