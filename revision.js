@@ -6,7 +6,7 @@ function setup(){
 
 let size = 100;
 function draw(){
-rect(width/2-size/2, height/2-size/2, size, size)
+    rect(width/2-size/2, height/2-size/2, size, size)
 }
 
 
