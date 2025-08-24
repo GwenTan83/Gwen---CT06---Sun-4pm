@@ -12,4 +12,6 @@
 
 // Exercise 2: Draw 5 circles horizontally across the canvas and fill in with green colour gradient
 
-function setup() {}
+function setup() {
+    createCanvas(600,600)
+}
