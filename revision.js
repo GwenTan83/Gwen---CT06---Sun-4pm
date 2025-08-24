@@ -6,7 +6,7 @@ function setup(){
 
 // Exercise 2: Draw 5 circles horizontally across the canvas and fill in with green colour gradient
 function draw(){
-    circle()
+    circle(75,200,100)
     circle()
     circle()
     circle()
