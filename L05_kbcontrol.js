@@ -9,6 +9,6 @@ function setup(){
 }
 
 function draw(){
-    fill 
+    fill (shapeColor)
 
 }
