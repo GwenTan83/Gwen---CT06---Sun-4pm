@@ -10,6 +10,6 @@ function setup(){
 
 function draw(){
     fill (shapeColor);
-    
+    circle(width/2)
 
 }
