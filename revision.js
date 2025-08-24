@@ -10,5 +10,5 @@ function draw(){
     circle(225,200,100);
     circle(375,200,100);
     circle(525,200,100);
-    circle(700,200,100);
+    circle(680,200,100);
 }
