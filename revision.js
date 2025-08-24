@@ -1,6 +1,6 @@
 // Exercise 1: Draw a square in the middle of the canvas
 function setup(){
-    createCanvas(600, 400);
+    createCanvas(400, 400);
     background(220);
 }
 
