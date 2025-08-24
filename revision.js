@@ -4,12 +4,4 @@ function setup(){
     background(220);
 }
 
-
-
-
-
-
-
-
-
 // Exercise 2: Draw 5 circles horizontally across the canvas and fill in with green colour gradient
