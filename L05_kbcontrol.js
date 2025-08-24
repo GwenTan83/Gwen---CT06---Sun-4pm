@@ -14,7 +14,7 @@ function draw(){
     } else if (mouseX>=100 || mouseX<200){
         shapeColor='green';
     } else {
-        shapeColor
+        shapeColor='blue'
     }
     
     fill (shapeColor);
