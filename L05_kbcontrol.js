@@ -9,6 +9,7 @@ function setup(){
 }
 
 function draw(){
-    fill (shapeColor)
+    fill (shapeColor);
+    
 
 }
