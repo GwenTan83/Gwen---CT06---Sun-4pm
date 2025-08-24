@@ -10,4 +10,4 @@ function draw(){
 }
 
 
-//
+// Exercise 2: Draw
