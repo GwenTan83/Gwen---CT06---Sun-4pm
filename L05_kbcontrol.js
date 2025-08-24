@@ -11,7 +11,7 @@ function setup(){
 function draw(){
     if(mouseX<100) {
         shapeColor='red';
-    }else if (mouseX>=100 || mouse)
+    }else if (mouseX>=100 || mouseX<200)
     
     fill (shapeColor);
     circle(width/2, height/2, 100);
