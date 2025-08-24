@@ -19,6 +19,6 @@ function setup() {
 
 function draw() {
     for(let i=0; i<5; i++) {
-        ellipse()
+        ellipse(50 + i*50)
     }
 }
