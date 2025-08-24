@@ -1,1 +1,1 @@
-// Exercise 1: 
+// Exercise 1: Draw a square in the middle 
