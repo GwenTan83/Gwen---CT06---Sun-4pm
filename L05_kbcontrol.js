@@ -40,7 +40,9 @@ function draw(){
 
 }
 
-function keyPressed(){}
+function keyPressed(){
+    rectSize = 100;
+}
 
 
 
