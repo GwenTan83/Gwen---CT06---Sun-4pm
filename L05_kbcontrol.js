@@ -49,6 +49,7 @@ function keyReleased(){
     rectSize = 50;
 }
 
+RTCEncodedAudioFrame()
 // let shapeColor = 'yellow';
 
 // function setup(){
