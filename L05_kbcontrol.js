@@ -62,7 +62,8 @@ function keyPressed(){
 }
 
 function keyReleased(){
-    //counter???
+    //counter??? - how many circle
+    
 }
 floor(random(5,21))
 // let shapeColor = 'yellow';
