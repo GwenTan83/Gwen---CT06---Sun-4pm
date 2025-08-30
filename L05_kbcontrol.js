@@ -49,7 +49,7 @@ function keyReleased(){
     rectSize = 50;
 }
 
-RTCEncodedAudioFrame()
+random(5,21)
 // let shapeColor = 'yellow';
 
 // function setup(){
