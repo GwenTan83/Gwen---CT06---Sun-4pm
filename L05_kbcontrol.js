@@ -53,7 +53,8 @@ function keyReleased(){
 
 function setup(){
     createCanvas(400,400);
-    background
+    background(220);
+    noStroke();
 
 }
 floor(random(5,21))
