@@ -57,7 +57,9 @@ function setup(){
     noStroke();
 }
 
-
+function keyPressed(){
+    
+}
 floor(random(5,21))
 // let shapeColor = 'yellow';
 
