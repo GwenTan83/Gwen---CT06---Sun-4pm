@@ -61,7 +61,9 @@ function keyPressed(){
 
 }
 
-function keyReleased
+function keyReleased(){
+    //counter???
+}
 floor(random(5,21))
 // let shapeColor = 'yellow';
 
