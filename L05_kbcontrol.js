@@ -19,6 +19,17 @@ function mouseDragged(){
     ellipse(mouseX, mouseY, circleSize, circleSize);
     circleSize += 0.5;
 }
+//recap--------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
 // let shapeColor = 'yellow';
 
 // function setup(){
