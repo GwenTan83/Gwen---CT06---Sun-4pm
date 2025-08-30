@@ -1,5 +1,5 @@
 // write your codes here
-//recap--------------------------------------------------------------
+//recap--------------------------------------------------------------recap
 let shapeColor='blue';
 let circleSize=5;
 
@@ -19,7 +19,7 @@ function mouseDragged(){
     ellipse(mouseX, mouseY, circleSize, circleSize);
     circleSize += 0.5;
 }
-//recap--------------------------------------------------------------
+//--------------------------------------------------------------recap
 
 
 
