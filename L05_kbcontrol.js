@@ -49,11 +49,6 @@ function keyReleased(){
     rectSize = 50;
 }
 
-
-
-
-
-
 // let shapeColor = 'yellow';
 
 // function setup(){
