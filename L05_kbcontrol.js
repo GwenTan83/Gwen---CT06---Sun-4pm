@@ -55,8 +55,9 @@ function setup(){
     createCanvas(400,400);
     background(220);
     noStroke();
-
 }
+
+
 floor(random(5,21))
 // let shapeColor = 'yellow';
 
