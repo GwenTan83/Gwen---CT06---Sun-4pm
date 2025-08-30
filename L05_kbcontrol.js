@@ -52,7 +52,8 @@ function keyReleased(){
 //-------------------------------------------------Challenge 1
 
 function setup(){
-    
+    createCanvas()
+
 }
 floor(random(5,21))
 // let shapeColor = 'yellow';
