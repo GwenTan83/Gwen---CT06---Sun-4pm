@@ -58,8 +58,10 @@ function setup(){
 }
 
 function keyPressed(){
-    
+
 }
+
+function keyReleased
 floor(random(5,21))
 // let shapeColor = 'yellow';
 
