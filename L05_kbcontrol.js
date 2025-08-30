@@ -40,6 +40,7 @@ function draw(){
 
 }
 
+function keyPressed(){}
 
 
 
