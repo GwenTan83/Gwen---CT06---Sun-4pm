@@ -14,7 +14,7 @@ function draw() {
     // for(let i=0; i<4; i++) {
     //   // fill(i*spacing);
     //   // fill(colorValue%255)
-    //   if(i%2===0){
+    //   if(i%2 0){
     //     fill(0);
     //   } else{
     //     fill(225);

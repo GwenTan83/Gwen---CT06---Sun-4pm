@@ -1,22 +1,40 @@
 // write your codes here
+let shapeColor='blue';
+let circleSize=5;
 
-let shapeColor = 'yellow';
-
-function setup(){
-    createCanvas(600,600);
+function setup () {
+    createCanvas(400,400);
     background(220);
-
+    noStroke();
 }
 
-function draw(){
-    if(mouseX<100) {
-        shapeColor='red';
-    } else if (mouseX>=100 && mouseX<200){
-        shapeColor='green';
-    } else {
-        shapeColor='blue';
-    }
+function mousePressed(){
+    shapeColor = color(random(255), random(255), random(255));
+    circleSize=5;
+}
+
+function mouseDragged(){
+    fill(shapeColor);
+    ellipse(mouseX, mouseY, circleSize, circleSize);
+    circleSize += 0.5;
+}
+// let shapeColor = 'yellow';
+
+// function setup(){
+//     createCanvas(600,600);
+//     background(220);
+
+// }
+
+// function draw(){
+//     if(mouseX<100) {
+//         shapeColor='red';
+//     } else if (mouseX>=100 && mouseX<200){
+//         shapeColor='green';
+//     } else {
+//         shapeColor='blue';
+//     }
     
-    fill (shapeColor);
-    circle(width/2, height/2, 100);
-}
+//     fill (shapeColor);
+//     circle(width/2, height/2, 100);
+// }
