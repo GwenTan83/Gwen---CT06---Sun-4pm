@@ -176,6 +176,7 @@ function setup(){
 function draw(){
     background(220);
 
+    x=
     if(keyIsDown(RIGHT_ARROW)){
         x += speed;
     }
