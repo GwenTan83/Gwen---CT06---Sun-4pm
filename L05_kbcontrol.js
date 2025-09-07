@@ -129,7 +129,3 @@ function draw(){
     background(220);
 }
 
-function keyPressed(){
-    console.log("key: ", key);
-    console.log("keyCode: ", keyCode);
-}
