@@ -168,15 +168,13 @@
 
 let speed = 1;
 let x = 300;
-let y = height/2;
+let y = 300;
 function setup(){
     createCanvas(600,600);
 }
 
 function draw(){
     background(220);
-
-
 
     if(keyIsDown(RIGHT_ARROW)){
         x += speed;
