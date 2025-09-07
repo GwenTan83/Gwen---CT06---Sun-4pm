@@ -176,7 +176,7 @@ function draw(){
     background(220);
 
     let x = width/2;
-    let y = height/2
+    let y = height/2;
 
     circle(width/2, height/2, 50);
 }
