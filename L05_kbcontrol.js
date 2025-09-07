@@ -178,5 +178,5 @@ function draw(){
     let x = width/2;
     let y = height/2;
 
-    circle(width/2, height/2, 50);
+    circle(x, y, 50);
 }
