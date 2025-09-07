@@ -160,7 +160,7 @@ function draw() {
         shapeColor='yellow';
     }
     fill(shapeColor);
-    circle(width/2, height/2,)
+    circle(width/2, height/2, 200);
 
 
 }
