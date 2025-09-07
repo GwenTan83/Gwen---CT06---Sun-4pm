@@ -159,7 +159,7 @@ function draw() {
     else {
         shapeColor='yellow';
     }
-    
+    fill
 
 
 }
