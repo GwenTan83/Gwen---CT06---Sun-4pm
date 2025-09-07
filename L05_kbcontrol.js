@@ -131,6 +131,6 @@ function draw(){
         shapeColor = 'black';
     }
     fill(shapeColor);
-    circle
+    circle(width/2, height/2)
 }
 
