@@ -126,7 +126,7 @@ function setup(){
 }
 
 function draw(){
-    circle
+    background(220);
 }
 
 function keyPressed(){
