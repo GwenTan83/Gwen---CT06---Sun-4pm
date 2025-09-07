@@ -178,7 +178,7 @@ function draw(){
     let x = width/2;
     let y = height/2;
 
-    if(keyIsDown)
+    if(keyIsDown(RIGHT))
 
     circle(x, y, 50);
 }
