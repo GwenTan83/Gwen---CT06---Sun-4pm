@@ -178,7 +178,9 @@ function draw(){
     let x = width/2;
     let y = height/2;
 
-    if(keyIsDown(RIGHT))
+    if(keyIsDown(RIGHT_ARROW)){
+        x += speed
+    }
 
     circle(x, y, 50);
 }
