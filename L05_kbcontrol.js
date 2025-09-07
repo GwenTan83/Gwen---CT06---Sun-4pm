@@ -159,7 +159,8 @@ function draw() {
     else {
         shapeColor='yellow';
     }
-    fill
+    fill(shapeColor);
+    circle
 
 
 }
