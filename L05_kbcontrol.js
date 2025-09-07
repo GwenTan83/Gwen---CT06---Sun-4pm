@@ -70,7 +70,7 @@
         change position x
         change position y
 } */
-floor(random(5,21))
+//floor(random(5,21))
 // let shapeColor = 'yellow';
 
 // function setup(){
