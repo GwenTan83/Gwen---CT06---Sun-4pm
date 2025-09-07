@@ -179,7 +179,7 @@ function draw(){
     let y = height/2;
 
     if(keyIsDown(RIGHT_ARROW)){
-        x += speed
+        x += speed;
     }
 
     circle(x, y, 50);
