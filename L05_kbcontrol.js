@@ -117,6 +117,10 @@ function setup(){
     createCanvas(600,600);
 }
 
+function draw(){
+    
+}
+
 function keyPressed(){
     console.log("key: ", key);
     console.log("keyCode: ", keyCode);
