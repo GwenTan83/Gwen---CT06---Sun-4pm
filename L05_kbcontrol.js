@@ -176,7 +176,7 @@ function setup(){
 function draw(){
     background(220);
 
-    x=constrain(x,)
+    x=constrain(x, 25, width-)
     if(keyIsDown(RIGHT_ARROW)){
         x += speed;
     }
