@@ -119,6 +119,7 @@
 ///////////////////////////////////////////////////////
 //Task 2
 
+let shapeColor = ''
 function setup(){
     createCanvas(600,600);
 }
