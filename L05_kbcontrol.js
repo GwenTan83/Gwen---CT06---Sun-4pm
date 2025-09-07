@@ -167,7 +167,8 @@
 ////////////////////////////////////////////////
 
 let speed = 1;
-
+let x = width/2;
+    let y = height/2;
 function setup(){
     createCanvas(600,600);
 }
@@ -175,8 +176,7 @@ function setup(){
 function draw(){
     background(220);
 
-    let x = width/2;
-    let y = height/2;
+
 
     if(keyIsDown(RIGHT_ARROW)){
         x += speed;
