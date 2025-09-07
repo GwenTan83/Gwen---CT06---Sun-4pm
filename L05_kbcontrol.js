@@ -118,7 +118,7 @@ function setup(){
 }
 
 function draw(){
-    
+    circle
 }
 
 function keyPressed(){
