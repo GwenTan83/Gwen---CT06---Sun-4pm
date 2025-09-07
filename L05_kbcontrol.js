@@ -130,6 +130,7 @@ function draw(){
     if (keyCode == 38) { //38 = uparrow
         shapeColor = 'black';
     }
+    if ()
     fill(shapeColor);
     circle(width/2, height/2, 200);
 }
