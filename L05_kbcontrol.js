@@ -136,31 +136,32 @@
 //     circle(width/2, height/2, 200);
 // }
 /////////////////////////////////////////////////////////////////// 
-let shapeColor = 'blue';
+// let shapeColor = 'blue';
 
-function setup(){
-    createCanvas(600,600);
-}
+// function setup(){
+//     createCanvas(600,600);
+// }
 
-function draw() {
-    background(220);
+// function draw() {
+//     background(220);
 
-    if (key == 'w'){
-        shapeColor = 'white';
-    }
-    else if (key == 'r'){
-        shapeColor = 'red';
+//     if (key == 'w'){
+//         shapeColor = 'white';
+//     }
+//     else if (key == 'r'){
+//         shapeColor = 'red';
 
-    }
-    else if (key == 'g'){
-        shapeColor = 'green';
+//     }
+//     else if (key == 'g'){
+//         shapeColor = 'green';
 
-    }
-    else {
-        shapeColor='yellow';
-    }
-    fill(shapeColor);
-    circle(width/2, height/2, 200);
+//     }
+//     else {
+//         shapeColor='yellow';
+//     }
+//     fill(shapeColor);
+//     circle(width/2, height/2, 200);
 
 
-}
+// }
+////////////////////////////////////////////////
