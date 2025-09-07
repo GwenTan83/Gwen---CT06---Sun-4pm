@@ -117,7 +117,8 @@
 //     console.log("keyCode: ", keyCode);
 // }
 ///////////////////////////////////////////////////////
-//T
+//Task 2
+
 function setup(){
     createCanvas(600,600);
 }
