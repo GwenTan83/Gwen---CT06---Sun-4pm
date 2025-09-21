@@ -2,3 +2,5 @@
 function draw(){
     circle(x, y, size);
 }
+
+function keyPressed(){}
