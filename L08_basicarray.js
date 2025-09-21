@@ -61,7 +61,9 @@ function setup(){
 }
 text("My favourite foods:", 50, 50);
 
-for(let i=0; i<favFoods.length; i)
+for(let i=0; i<favFoods.length; i++){
+    text((i+1))
+}
 function draw(){
     background(220);
 
