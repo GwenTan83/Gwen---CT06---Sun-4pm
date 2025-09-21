@@ -28,6 +28,7 @@ function draw() {
         //fill(random(255,random(255),random(255)); 
     }
     x += speedX; //x = x + speedX
+    y
    
     noStroke(); 
     fill(shapeColor); 
