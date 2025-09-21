@@ -27,4 +27,4 @@ function draw() {
     fill(shapeColor); 
     rect(x, y, size, size); 
 
-        }
+}
