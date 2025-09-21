@@ -21,6 +21,12 @@ function draw() {
         shapeColor = color(random(255), random(255),random(255)); 
         //fill(random(255,random(255),random(255)); 
     }
+
+    \    if (y-size/2 <= 0 || y + size/2>= height) {  // x <= size/r || x >= height - size/2
+        speedY *= -1; // speedX = speedX*-1
+        shapeColor = color(random(255), random(255),random(255)); 
+        //fill(random(255,random(255),random(255)); 
+    }
     x += speedX; //x = x + speedX
    
     noStroke(); 
