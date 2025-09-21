@@ -52,4 +52,6 @@
 // text("My favourite activity is sleeping", 50, 150)
 // }
 
-function setup(){}
+function setup(){
+    createCanvas()
+}
