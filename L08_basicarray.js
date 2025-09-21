@@ -39,4 +39,4 @@ function draw() {
 textSize(50,50)
 text("My name is yes")
 textSize(50,100)
-text()
+text("I am ")
