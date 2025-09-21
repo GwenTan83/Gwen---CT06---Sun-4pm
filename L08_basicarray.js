@@ -38,4 +38,5 @@ function draw() {
 
 textSize(50,50)
 text("My name is yes")
-text
+textSize(50,100)
+text()
