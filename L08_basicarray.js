@@ -41,4 +41,4 @@ text("My name is Gwen")
 textSize(50,100)
 text("I am 14 this year")
 textSize(50,100)
-text
+text("My favourite a")
