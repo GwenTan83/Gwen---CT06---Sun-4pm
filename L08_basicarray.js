@@ -48,6 +48,6 @@ fill(0,255,0)
 text("I am 14 this year", 50, 100)
 
 textSize(30);
-fill(0,0,)
+fill(100,0,0);
 text("My favourite activity is sleeping", 50, 150)
 }
