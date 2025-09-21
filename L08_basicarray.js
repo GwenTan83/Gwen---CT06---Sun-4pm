@@ -37,5 +37,5 @@ function draw() {
 }
 
 textSize(50,50)
-text("My name is yes.")
-
+text("My name is yes")
+text
