@@ -22,7 +22,7 @@ function draw() {
         //fill(random(255,random(255),random(255)); 
     }
 
-     if (y <= 0 || y >= height - size) {  // x <= size/r || x >= height - size/2
+     if (y <= 0 || y >= height - size) {  
         speedY *= -1; // speedX = speedX*-1
         shapeColor = color(random(255), random(255),random(255)); 
         //fill(random(255,random(255),random(255)); 
