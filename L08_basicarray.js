@@ -42,6 +42,8 @@ function setup(){
 textSize(24)
 fill(0,0,100)
 text("My name is Gwen", 50, 50)
+
+textSiz
 text("I am 14 this year", 50, 100)
 text("My favourite activity is sleeping", 50, 150)
 }
