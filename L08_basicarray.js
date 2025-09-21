@@ -38,7 +38,7 @@
 function setup(){
     createCanvas(600,400);
     background(220);
-}
+
 
 textSize(50,50)
 text("My name is Gwen")
@@ -46,3 +46,4 @@ textSize(50,100)
 text("I am 14 this year")
 textSize(50,100)
 text("My favourite activity is sleeping")
+}
