@@ -52,6 +52,7 @@
 // text("My favourite activity is sleeping", 50, 150)
 // }
 
+let fac
 function setup(){
     createCanvas(400,400)
     textSize(24)
@@ -60,5 +61,5 @@ function setup(){
 
 function draw(){
     background(220);
-    
+
 }
