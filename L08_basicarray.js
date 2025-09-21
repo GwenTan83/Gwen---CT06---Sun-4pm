@@ -23,8 +23,8 @@ function draw() {
     }
     x += speedX; //x = x + speedX
    
- noStroke(); 
-            fill(shapeColor); 
+    noStroke(); 
+    fill(shapeColor); 
             rect(x, y, size, size); 
 
         }
