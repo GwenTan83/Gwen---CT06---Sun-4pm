@@ -3,9 +3,9 @@
 
 let x = 300;
 let y = 200; 
-let size = 30; 
+let size = 40; 
 let speedX = 5; 
-let speedY = 5; 
+// let speedY = 5; 
 let shapeColor = 'blue'; 
 
 function setup() {
@@ -16,13 +16,13 @@ function setup() {
 function draw() {
     //background(220); 
 
-    if (x<= 0 || x + size/2>= width) {  // x <= size/r || x >= width - size/2
+    if (x<= 0 || x >= width - size/2){ 
         speedX *= -1; // speedX = speedX*-1
         shapeColor = color(random(255), random(255),random(255)); 
         //fill(random(255,random(255),random(255)); 
     }
     x += speedX; //x = x + speedX
-    y += speedY; //y = y + speedY
+   
 
 
 
