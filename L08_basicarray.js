@@ -36,6 +36,6 @@ function draw() {
 
 }
 
-textSize(5)
-text()
+textSize(50,50)
+
 
