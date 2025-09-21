@@ -56,7 +56,7 @@ let favFoods = ["ice cream", "chicken rice", "nuggets", "char kway teow", "carro
 function setup(){
     createCanvas(400,400)
     textSize(24)
-    textAlign(CENTER, TOP);
+    textAlign(CENTER, CENTER);
 }
 
 function draw(){
