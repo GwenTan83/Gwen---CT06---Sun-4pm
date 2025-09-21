@@ -40,7 +40,7 @@ function setup(){
     background(220);
 
 
-textSize(50,50)
+textSize(50)
 text("My name is Gwen")
 textSize(50,100)
 text("I am 14 this year")
