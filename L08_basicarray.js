@@ -36,9 +36,8 @@
 
 // }
 function setup(){
-    createCanvas(600,400);
+    createCanvas(400,400);
     background(220);
-
 
 textSize(50)
 text("My name is Gwen")
