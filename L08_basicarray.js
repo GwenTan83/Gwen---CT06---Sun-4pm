@@ -14,7 +14,7 @@ function setup() {
 }
 
 function draw() {
-    //background(220); 
+    background(220); 
 
     if (x<= 0 || x >= width - size/2){ 
         speedX *= -1; // speedX = speedX*-1
