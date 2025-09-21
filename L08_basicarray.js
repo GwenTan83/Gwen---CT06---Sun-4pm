@@ -28,6 +28,6 @@ function draw() {
 
     noStroke(); 
     fill(shapeColor); 
-    rect(x, y, size); 
+    rect(x, y, size, size); 
 
 }
