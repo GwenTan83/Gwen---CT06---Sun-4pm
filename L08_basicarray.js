@@ -44,7 +44,7 @@ fill(0,0,100)
 text("My name is Gwen", 50, 50)
 
 textSize(20);
-fill(0,2550)
+fill(0,255,0)
 text("I am 14 this year", 50, 100)
 text("My favourite activity is sleeping", 50, 150)
 }
