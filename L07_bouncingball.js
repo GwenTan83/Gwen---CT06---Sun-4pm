@@ -9,4 +9,6 @@ function keyPressed(){
         speedY *= 1,2;
     }
 }
-    
+    if(keyCode === DOWN_ARROW){
+        spped
+    }
