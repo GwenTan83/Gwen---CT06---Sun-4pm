@@ -1,8 +1,8 @@
 // write your codes here
 
 
-let x = 300;
-let y = 200; 
+let x = 200-20;
+let y = 200-20; 
 let size = 40; 
 let speedX = 5; 
 // let speedY = 5; 
