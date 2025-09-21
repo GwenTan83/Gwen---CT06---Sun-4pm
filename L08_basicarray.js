@@ -59,7 +59,7 @@ function setup(){
     textAlign(LargestContentfulPaint, CENTER);
     textSize(24);
 }
-text("My favourite foods:")
+text("My favourite foods:", 50, 50))
 function draw(){
     background(220);
 
