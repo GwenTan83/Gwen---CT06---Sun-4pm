@@ -35,19 +35,21 @@
 //     rect(x, y, size, size); 
 
 // }
-function setup(){
-    createCanvas(600,400);
-    background(220);
+// function setup(){
+//     createCanvas(600,400);
+//     background(220);
 
-textSize(24)
-fill(255,0,0)
-text("My name is Gwen", 50, 50)
+// textSize(24)
+// fill(255,0,0)
+// text("My name is Gwen", 50, 50)
 
-textSize(20);
-fill(0,255,0)
-text("I am 14 this year", 50, 100)
+// textSize(20);
+// fill(0,255,0)
+// text("I am 14 this year", 50, 100)
 
-textSize(30);
-fill(0,0,255);
-text("My favourite activity is sleeping", 50, 150)
-}
+// textSize(30);
+// fill(0,0,255);
+// text("My favourite activity is sleeping", 50, 150)
+// }
+
+
