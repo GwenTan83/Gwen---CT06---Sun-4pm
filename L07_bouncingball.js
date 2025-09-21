@@ -10,5 +10,6 @@ function keyPressed(){
     }
 }
     if(keyCode === DOWN_ARROW){
-        spped
+        speedX *= 0,8
+        
     }
