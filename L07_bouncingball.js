@@ -5,6 +5,6 @@ function draw(){
 
 function keyPressed(){
     if(keyCode === UP_ARROW){
-        speedX 
+        speedX *= 1,
     }
 }
