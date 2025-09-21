@@ -37,5 +37,5 @@ function draw() {
 }
 
 textSize(5)
-text
+text()
 
