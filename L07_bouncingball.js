@@ -1,2 +1,4 @@
 // write your codes here
-functiom 
+function draw(){
+    x+ 
+}
