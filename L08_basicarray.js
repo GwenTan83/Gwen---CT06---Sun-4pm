@@ -52,7 +52,7 @@
 // text("My favourite activity is sleeping", 50, 150)
 // }
 
-let favFoods = ["ice cream", "chicken rice", "nuggets", ]
+let favFoods = ["ice cream", "chicken rice", "nuggets", "char kway teow"]
 function setup(){
     createCanvas(400,400)
     textSize(24)
