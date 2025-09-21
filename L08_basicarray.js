@@ -62,7 +62,7 @@ function setup(){
 text("My favourite foods:", 50, 50);
 
 for(let i=0; i<favFoods.length; i++){
-    text((i+1) + ", " + favfoods)
+    text((i+1) + ", " + favfoods[i], 50)
 }
 function draw(){
     background(220);
