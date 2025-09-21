@@ -26,7 +26,7 @@ function draw() {
         shapeColor = color(random(255), random(255),random(255)); 
         //fill(random(255,random(255),random(255)); 
     }
-
+rr
     x += speedX; //x = x + speedX
     y += speedY; //y = y + speedY
 
