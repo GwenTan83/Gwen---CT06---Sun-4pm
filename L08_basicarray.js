@@ -60,6 +60,8 @@ function setup(){
     textSize(24);
 }
 text("My favourite foods:", 50, 50);
+
+for(let i=0; i<favFoods.length; i)
 function draw(){
     background(220);
 
