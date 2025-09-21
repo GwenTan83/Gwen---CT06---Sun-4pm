@@ -35,7 +35,9 @@
 //     rect(x, y, size, size); 
 
 // }
-function setup(){}
+function setup(){
+    createCanvas
+}
 
 
 
