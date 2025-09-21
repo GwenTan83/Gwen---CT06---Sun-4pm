@@ -16,17 +16,11 @@ function setup() {
 function draw() {
     //background(220); 
 
-    if (x-size/2 <= 0 || x + size/2>= width) {  // x <= size/r || x >= width - size/2
+    if (x<= 0 || x + size/2>= width) {  // x <= size/r || x >= width - size/2
         speedX *= -1; // speedX = speedX*-1
         shapeColor = color(random(255), random(255),random(255)); 
         //fill(random(255,random(255),random(255)); 
     }
-    if (y-size/2 <= 0 || y + size/2>= height) {  // x <= size/r || x >= height - size/2
-        speedY *= -1; // speedX = speedX*-1
-        shapeColor = color(random(255), random(255),random(255)); 
-        //fill(random(255,random(255),random(255)); 
-    }
-rr
     x += speedX; //x = x + speedX
     y += speedY; //y = y + speedY
 
