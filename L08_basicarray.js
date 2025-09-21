@@ -35,6 +35,9 @@
 //     rect(x, y, size, size); 
 
 // }
+function setup(){}
+
+
 
 textSize(50,50)
 text("My name is Gwen")
