@@ -40,4 +40,4 @@ textSize(50,50)
 text("My name is yes")
 textSize(50,100)
 text("I am 14 this year")
-textSize
+textSize(50,100)
