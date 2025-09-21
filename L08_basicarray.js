@@ -34,6 +34,6 @@ function draw() {
 
     noStroke(); 
     fill(shapeColor); 
-    circle(x, y, size); 
+    rect(x, y, size); 
 
 }
