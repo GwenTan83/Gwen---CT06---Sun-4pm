@@ -40,7 +40,7 @@ function setup(){
     background(220);
 
 textSize(24)
-fill(0,0,100)
+fill(255,0,0)
 text("My name is Gwen", 50, 50)
 
 textSize(20);
@@ -48,6 +48,6 @@ fill(0,255,0)
 text("I am 14 this year", 50, 100)
 
 textSize(30);
-fill(100,0,0);
+fill(0,0,255);
 text("My favourite activity is sleeping", 50, 150)
 }
