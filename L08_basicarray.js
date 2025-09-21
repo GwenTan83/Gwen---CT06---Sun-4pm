@@ -28,3 +28,4 @@ function draw() {
     rect(x, y, size, size); 
 
 }
+
