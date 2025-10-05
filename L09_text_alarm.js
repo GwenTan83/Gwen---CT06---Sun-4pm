@@ -40,7 +40,7 @@
 let countdown = 5;
 let interval;
 let change;
-let bg
+let bgColor = 220;
 
 
 function setup() {
