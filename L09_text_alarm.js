@@ -49,7 +49,7 @@ function setup() {
 }
 
 function draw(){
-    background(220);
+    background(bgColor);
 
     fill(0);
     textSize(24);
