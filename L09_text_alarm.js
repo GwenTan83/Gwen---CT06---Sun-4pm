@@ -70,3 +70,7 @@ function updateCountdown(){
         change = setInterval(changeVar, 500);
     }
 }
+
+function changeVar(){
+    
+}
