@@ -66,6 +66,6 @@ function updateCountdown(){
         countdown -=1;
     } else {
         clearInterval(interval);
-        change
+        change = setInterval(changeVar)
     }
 }
