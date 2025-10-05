@@ -44,7 +44,7 @@ let bgColor = 220;
 let sound;
 
 function preload(){
-    sound = loudSound('assets/bossaNova.mp3');
+    sound = loadSound('assets/bossaNova.mp3');
 }
 
 
