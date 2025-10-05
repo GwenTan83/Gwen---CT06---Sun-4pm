@@ -43,6 +43,10 @@ let change;
 let bgColor = 220;
 let sound;
 
+function preload(){
+    
+}
+
 
 function setup() {
     createCanvas(600,400)
