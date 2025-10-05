@@ -41,6 +41,7 @@ let countdown = 5;
 let interval;
 let change;
 let bgColor = 220;
+let sound;
 
 
 function setup() {
