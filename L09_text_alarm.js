@@ -14,5 +14,6 @@ function draw(){
     background(220);
 
     fill(0);
-    textSize
+    textSize(24);
+    text("")
 }
