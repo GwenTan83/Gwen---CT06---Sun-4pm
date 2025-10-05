@@ -44,7 +44,7 @@ let bgColor = 220;
 let sound;
 
 function preload(){
-    sound = loud
+    sound = loudSound('')
 }
 
 
