@@ -85,6 +85,6 @@ function changeVar(){
 
 function keyPressed(){
     if(keyCode === 32){
-        
+        clearInte
     }
 }
