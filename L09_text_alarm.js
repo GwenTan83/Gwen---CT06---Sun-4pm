@@ -39,6 +39,8 @@
 
 let countdown = 5;
 let interval;
+let change;
+let bg
 
 
 function setup() {
@@ -72,5 +74,5 @@ function updateCountdown(){
 }
 
 function changeVar(){
-    
+
 }
