@@ -15,5 +15,5 @@ function draw(){
 
     fill(0);
     textSize(24);
-    text("Click to start timer",)
+    text("Click to start timer", width/2, height-50);
 }
