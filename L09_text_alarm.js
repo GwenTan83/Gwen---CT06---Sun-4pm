@@ -3,4 +3,8 @@
 //task 2 - countdown timer
 
 let countdown = 5;
-let interval
+let interval;
+
+function setup() {
+    
+}
