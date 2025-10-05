@@ -74,5 +74,5 @@ function updateCountdown(){
 }
 
 function changeVar(){
-    bgColor = color
+    bgColor = color(random9)
 }
