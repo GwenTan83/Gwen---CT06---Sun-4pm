@@ -11,7 +11,7 @@ function draw(){
     fill('red'); //fill(255, 0, 0)
     noStroke();
 
-    if(x>=width-dia/2 || x<=0){
+    if(x>=width-dia/2 || x<=0-dia/2){
         speedX *=-1;
     }
 
