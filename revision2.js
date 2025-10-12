@@ -7,7 +7,7 @@ function setup(){
 
 function draw(){
     background('lightblue');
-    fill('red'); //
+    fill('red'); //fill(255, 0, 0)
     circle(x,200,100);
 }
 
