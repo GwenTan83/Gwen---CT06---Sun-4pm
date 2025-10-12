@@ -11,7 +11,7 @@ function draw(){
     noStroke();
 
     if(x<=width){
-        speedX
+        speedX *=
     }
 
     x += 2;
