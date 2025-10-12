@@ -42,7 +42,7 @@ function setup(){
 function draw(){
     background(220);
 
-    textSize
+    textSize(14);
     textAlign(CENTER, BOTTOM);
     text("Enter text here: ", 50, userInput.y+15);
 
