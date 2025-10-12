@@ -10,7 +10,7 @@ function draw(){
     fill('red'); //fill(255, 0, 0)
     noStroke();
 
-    if(x)
+    if(x<=width)
 
     x += 2;
     circle(x, height/2, 80);
