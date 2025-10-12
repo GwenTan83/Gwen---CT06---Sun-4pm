@@ -56,7 +56,8 @@
 
 //Task 2
 
-let 
+let colorPicker;
+
 
 function setup(){
     createCanvas(600,400);
