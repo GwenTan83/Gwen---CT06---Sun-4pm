@@ -1,6 +1,6 @@
 // Task 1
 let x = 300;
-let speed = 2
+let speedX = 2;
 function setup(){
     createCanvas(600,400);
 }
