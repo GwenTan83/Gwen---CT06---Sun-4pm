@@ -19,6 +19,7 @@
 //     circle(x, height/2, 40);
 // }
 
+
 //Task 2
 
 let arr = ["Pizza", "Pies", "Chocolates", "Chips",];
