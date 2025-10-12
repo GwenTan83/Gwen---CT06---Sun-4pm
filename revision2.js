@@ -5,4 +5,5 @@ function setup(){
 
 function draw(){
     circle(300,200,100);
+    circle(red);
 }
