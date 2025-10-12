@@ -42,5 +42,5 @@ function draw(){
     background(220);
 
     textAlign(CENTER, BOTTOM);
-    text("Enter text here: ", 50, userInput.y-10);
+    text("Enter text here: ", 50, userInput.y);
 }
