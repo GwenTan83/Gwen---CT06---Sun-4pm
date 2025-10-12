@@ -15,7 +15,7 @@ function draw(){
     }
 
     x += speedX;
-    circle(x, height/2, 80);
+    circle(x, height/2, 40);
 }
 
 
