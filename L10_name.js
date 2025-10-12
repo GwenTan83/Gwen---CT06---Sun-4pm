@@ -54,6 +54,9 @@
 //     userText = this.value();
 // }
 
+//Task 2
+
+let 
 
 function setup(){
     createCanvas(600,400);
