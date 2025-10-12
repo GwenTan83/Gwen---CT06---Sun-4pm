@@ -33,7 +33,8 @@ function draw(){
     fill('orange');
     textSize(20);
     textAlign(CENTER, CENTER);
-    
+
+    for(let i=0; i<arr.length; i++){}
 }
 
 
