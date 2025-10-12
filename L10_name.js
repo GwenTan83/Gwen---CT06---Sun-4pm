@@ -54,4 +54,6 @@ function userInputUp(){
     userText = this.value();
 }
 
-fu
+function setup(){
+    
+}
