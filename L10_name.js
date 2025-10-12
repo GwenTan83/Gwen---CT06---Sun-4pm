@@ -55,5 +55,5 @@ function userInputUp(){
 }
 
 function setup(){
-    
+    createCanvas()
 }
