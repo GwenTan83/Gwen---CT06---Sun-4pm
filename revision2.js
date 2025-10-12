@@ -8,6 +8,7 @@ function setup(){
 function draw(){
     background('lightblue');
     fill('red'); //fill(255, 0, 0)
+    noStroke
     circle(width/2, height/2, 100);
 }
 
