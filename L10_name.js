@@ -36,11 +36,12 @@ function setup(){
 
     userInput = createInput();
     userInput.position(width/2 - userInput.width/2, height-50);
+    userInput.input(userInputUp);
 }
 
 function draw(){
     background(220);
 
     textAlign(CENTER, BOTTOM);
-    text("Enter text here: ", 50, userInput.y+15                 );
+    text("Enter text here: ", 50, userInput.y+15);
 }
