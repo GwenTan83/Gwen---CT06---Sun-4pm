@@ -20,7 +20,8 @@ function draw(){
 }
 
 //Task 2
-let arr = [""]
+let arr = ["Pizza", "Pies", "Chocolates", "Chips",]
+
 
     
 
