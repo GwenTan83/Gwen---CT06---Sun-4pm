@@ -28,35 +28,35 @@
 
 //task 1
 
-let userInput;
-let userText = "Show Text Here"
+// let userInput;
+// let userText = "Show Text Here"
 
-function setup(){
-    createCanvas(600, 600);
+// function setup(){
+//     createCanvas(600, 600);
 
-    userInput = createInput();
-    userInput.position(width/2 - userInput.width/2, height-50);
-    userInput.input(userInputUp);
-}
+//     userInput = createInput();
+//     userInput.position(width/2 - userInput.width/2, height-50);
+//     userInput.input(userInputUp);
+// }
 
-function draw(){
-    background(220);
+// function draw(){
+//     background(220);
 
-    textSize(14);
-    textAlign(CENTER, BOTTOM);
-    text("Enter text here: ", 50, userInput.y+15);
+//     textSize(14);
+//     textAlign(CENTER, BOTTOM);
+//     text("Enter text here: ", 50, userInput.y+15);
 
-    textSize(30);
-    text(userText, width/2, height/2);
-}
+//     textSize(30);
+//     text(userText, width/2, height/2);
+// }
 
-function userInputUp(){
-    userText = this.value();
-}
+// function userInputUp(){
+//     userText = this.value();
+// }
 
 function setup(){
     fill(colourpicker);
     createCanvas(600,400);
-    fill("white")
+    fill("white");
     createCanvas(300,200);
 }
