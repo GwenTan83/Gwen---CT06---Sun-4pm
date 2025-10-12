@@ -57,5 +57,6 @@ function userInputUp(){
 function setup(){
     fill(colourpicker);
     createCanvas(600,400);
+    fill("white")
     createCanvas(300,200);
 }
