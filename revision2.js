@@ -4,6 +4,6 @@ function setup(){
 }
 
 function draw(){
+    fill("red")
     circle(300,200,100);
-
 }
