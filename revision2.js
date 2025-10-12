@@ -9,7 +9,7 @@ function draw(){
     background('lightblue');
     fill('red'); //fill(255, 0, 0)
     noStroke();
-    circle(x, height/2, 100);
+    circle(x, height/2, 80);
 }
 
 
