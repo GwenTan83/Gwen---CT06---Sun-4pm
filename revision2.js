@@ -9,6 +9,8 @@ function draw(){
     background('lightblue');
     fill('red'); //fill(255, 0, 0)
     noStroke();
+
+    x +
     circle(x, height/2, 80);
 }
 
