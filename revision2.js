@@ -1,6 +1,7 @@
 // Task 1
 let x = 300;
 let speedX = 2;
+let dia = 40;
 function setup(){
     createCanvas(600,400);
 }
