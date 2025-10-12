@@ -30,7 +30,9 @@ function setup(){
 function draw(){
     background(0);
 
-    fill('o')
+    fill('orange');
+    textSize(20);
+    text
 }
 
 
