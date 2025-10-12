@@ -59,5 +59,6 @@ function setup(){
 }
 
 function draw(){
-    fill
+    background(220);
+
 }
