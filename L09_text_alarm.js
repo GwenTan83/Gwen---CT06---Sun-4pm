@@ -63,6 +63,14 @@ function draw(){
     textSize(80);
     text(countdown, width/2, height/2);
 
+    let h = hour();
+    let m = minute();
+    let s = second();
+
+    let timeString = nf(h, 2) + " : " + nf(m, 2) + " : " + nf(s, 2);
+
+    text(timeString, width/2, height/2 - 100);
+
 }
 
 function mousePressed(){

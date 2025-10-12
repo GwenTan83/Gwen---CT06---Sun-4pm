@@ -1,1 +1,46 @@
 // write your codes here
+
+
+// let interval;
+// let bgColor = 220;
+
+// function setup(){
+//     createCanvas(400, 400);
+
+//     interval = setInterval(changeBg,1000);
+// }
+
+// function draw(){
+//     background(bgColor);
+
+//     let s = nf(59 - second(), 2);
+
+
+//     textSize(50);
+//     text(s, width/2, height/2); 
+// }
+
+// function changeBg(){
+//     bgColor = color(random(255), random(255), random(255));
+// } 
+
+///////////////////////////////////////////////////////////////
+
+//task 1
+
+let userInput;
+let userText = "Show Text Here"
+
+function setup(){
+    createCanvas(600, 600);
+
+    userInput = createInput();
+    userInput.position(width/2 - userInput.width/2, height-50);
+}
+
+function draw(){
+    background(220);
+
+    textAlign(CENTER, BOTTOM);
+    text("Enter text here: ", 50, height-50);
+}
