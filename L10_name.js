@@ -55,7 +55,7 @@
 // }
 
 function setup(){
-    fill(colourpicker);
+    background(colourpicker);
     createCanvas(600,400);
     fill("white");
     createCanvas(300,200);
