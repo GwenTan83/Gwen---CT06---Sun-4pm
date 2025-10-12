@@ -34,7 +34,9 @@ function draw(){
     textSize(20);
     textAlign(CENTER, CENTER);
 
-    for(let i=0; i<arr.length; i++){}
+    for(let i=0; i<arr.length; i++){
+        text(arr)
+    }
 }
 
 
