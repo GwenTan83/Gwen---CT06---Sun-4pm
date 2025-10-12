@@ -69,4 +69,6 @@ function draw(){
     
     text("Choose your background color", 50, colorPicker,y+15);
 
+    React()
+
 }
