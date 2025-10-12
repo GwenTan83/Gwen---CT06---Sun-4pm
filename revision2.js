@@ -20,7 +20,7 @@ function draw(){
 }
 
 //Task 2
-let 
+let arr = [""]
 
     
 
