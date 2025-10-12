@@ -32,7 +32,7 @@ function draw(){
 
     fill('orange');
     textSize(20);
-    textAlign(CustomElementRegistry,)
+    textAlign(CENTER, CENTER)
 }
 
 
