@@ -11,7 +11,7 @@
 //     fill('red'); //fill(255, 0, 0)
 //     noStroke();
 
-//     if(x>=width-dia/2 || x<=dia/2){ //x+r
+//     if(x>=width-dia/2 || x<=dia/2){ //x+r>=width || x
 //         speedX *=-1;
 //     }
 
