@@ -55,5 +55,5 @@
 // }
 
 function setup(){
-    createCanvas(50,100);
+    createCanvas(600,400);
 }
