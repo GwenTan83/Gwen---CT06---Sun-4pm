@@ -32,7 +32,8 @@ function draw(){
 
     fill('orange');
     textSize(20);
-    textAlign(CENTER, CENTER)
+    textAlign(CENTER, CENTER);
+    
 }
 
 
