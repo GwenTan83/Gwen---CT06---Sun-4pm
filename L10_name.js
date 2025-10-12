@@ -47,5 +47,5 @@ function draw(){
 }
 
 function userInputUp(){
-    
+    userText = this.value
 }
