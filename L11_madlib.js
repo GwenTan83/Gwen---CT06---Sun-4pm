@@ -2,7 +2,7 @@
 
 textBox = createInput()
 textBox.position(width/2, height - 150);
-textBox1.input(display1);
+textBox.input(display);
 
 function setup(){
     createCanvas(200, 200);
