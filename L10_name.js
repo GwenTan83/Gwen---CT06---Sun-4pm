@@ -88,7 +88,7 @@ function draw(){
     rect(50, 100, 500, 150, 500);
 
     //labels for input
-    text("Enter name: ",);
+    text("Enter name: ",50, textBox1.y);
     text("Enter age: ",50, textBox2.y + 15);
     
     // display text in rect
