@@ -74,7 +74,7 @@ function draw(){
 
     rect(50, 100, 500, 150, 500);
 
-    text("Enter your name", 50, colorPicker.y+-30);
+    text("Enter your name", 50, colorPicker.y+-50);
    
     text("Enter your age", 50, colorPicker.y+-10)
     userInput = createInput();
