@@ -65,9 +65,6 @@ function setup(){
     createCanvas(600,400);
     colorPicker = createColorPicker('orange');
     colorPicker.position(width/2, height-50);
-    userInput = createInput();
-    userInput.position(width/2 - userInput.width/2, height-50);
-    userInput.input(userInputUp);
 }
 
 function draw(){
