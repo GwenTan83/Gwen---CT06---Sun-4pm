@@ -62,7 +62,8 @@ let userInput;
 let userText = "Show Text Here";
 let textBox1;
 let textBox2;
-let text1
+let text1;
+let text2;
 
 function setup(){
     createCanvas(600,400);
@@ -89,6 +90,7 @@ function draw(){
 }
 
 function display1(){
+    
 
 }
 
