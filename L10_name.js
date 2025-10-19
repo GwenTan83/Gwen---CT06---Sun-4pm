@@ -58,6 +58,9 @@
 
 let colorPicker;
 
+let userInput;
+let userText = "Show Text Here"
+
 function setup(){
     createCanvas(600,400);
     colorPicker = createColorPicker('orange');
