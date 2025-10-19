@@ -60,13 +60,15 @@ let colorPicker;
 
 let userInput;
 let userText = "Show Text Here";
-let textBox1
+let textBox1;
+let textBox2;
 
 
 function setup(){
     createCanvas(600,400);
     colorPicker = createColorPicker('orange');
     colorPicker.position(width/2, height-50);
+    
 }
 
 function draw(){
