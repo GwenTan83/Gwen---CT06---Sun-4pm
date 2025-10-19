@@ -87,7 +87,8 @@ function draw(){
 
     rect(50, 100, 500, 150, 500);
 
-    //
+    //labels for input
+    text
     
     // display text in rect
     textAlign(CENTER, CENTER);
