@@ -60,6 +60,7 @@ let colorPicker;
 
 let userInput;
 let userText = "Show Text Here";
+let textBox1
 
 
 function setup(){
