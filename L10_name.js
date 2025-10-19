@@ -94,6 +94,7 @@ function draw(){
     
     // display text in rect
     textAlign(CENTER, CENTER);
+    textSize(24);
     text(text1, width/2, 150);
     text(text2, width/2, 200);
     
