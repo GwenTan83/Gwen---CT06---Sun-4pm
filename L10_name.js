@@ -71,7 +71,7 @@ function draw(){
 
     rect(50, 100, 500, 150, 500);
 
-    text("Enter your name", 50, colorPicker.y+-8);
+    text("Enter your name", 50, colorPicker.y+-20);
 
 }
 
