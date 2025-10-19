@@ -87,6 +87,7 @@ function draw(){
 
     rect(50, 100, 500, 150, 500);
     
+    //
     textAlign(CENTER, CENTER);
     text(text1, width/2, 150);
     text(text2, width/2, 200);
