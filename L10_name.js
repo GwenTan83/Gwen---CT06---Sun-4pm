@@ -86,8 +86,10 @@ function draw(){
     text("Choose your background color", 50, colorPicker.y+15);
 
     rect(50, 100, 500, 150, 500);
-    
+
     //
+    
+    // display text in rect
     textAlign(CENTER, CENTER);
     text(text1, width/2, 150);
     text(text2, width/2, 200);
