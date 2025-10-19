@@ -7,3 +7,10 @@ textBox.input(display);
 function setup(){
     createCanvas(200, 200);
 }
+
+function draw(){
+    background(colorPicker.value());
+    textAlign(LEFT);
+    textSize(16);
+    text("Choose your background color", 50, colorPicker.y+15);
+}
