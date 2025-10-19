@@ -90,7 +90,7 @@ function draw(){
 }
 
 function display1(){
-    
+    text1 = ths
 
 }
 
