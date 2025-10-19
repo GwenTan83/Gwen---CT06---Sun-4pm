@@ -84,6 +84,9 @@ function draw(){
 
 
     text("Enter your age", 50, colorPicker.y+-15)
+    userInput2 = createInput();
+    userInput.position(width/2 - userInput.width/2, height-80);
+    userInput.input(userInputUp);
    
 
 }
