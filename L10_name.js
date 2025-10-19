@@ -71,6 +71,7 @@ function setup(){
 
     textBox1 = createInput()
     textBox1.position(width/2, height - 150);
+    textBox1.input
 
     
     textBox2 = createInput()
