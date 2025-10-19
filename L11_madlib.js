@@ -10,7 +10,7 @@ function setup(){
     textBox.position(50, 50);
 
     colorTextPicker = createColorPicker('orange');
-    colorText
+    colorTextPicker.position(50,100)
 }
 
 function draw(){
