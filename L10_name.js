@@ -95,5 +95,5 @@ function display1(){
 }
 
 function display2(){
-
+    text2 = this.value
 }
