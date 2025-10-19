@@ -9,8 +9,7 @@ function setup(){
 }
 
 function draw(){
-    background(colorPicker.value());
+    text1(colorPicker.value());
     textAlign(LEFT);
     textSize(16);
-    text("Choose your background color", 50, colorPicker.y+15);
 }
