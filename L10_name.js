@@ -88,4 +88,10 @@ function draw(){
     
 }
 
-function disp;
+function display1(){
+
+}
+
+function display2(){
+    
+}
