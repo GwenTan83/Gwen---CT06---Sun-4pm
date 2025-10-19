@@ -71,6 +71,10 @@ function setup(){
 
     textBox1 = createInput()
     textBox1.position(width/2, height - 150);
+
+    
+    textBox2 = createInput()
+    textBox1.position(width/2, height - 150);
 }
 
 function draw(){
