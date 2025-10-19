@@ -81,7 +81,7 @@ function draw(){
     userInput.position(width/2 - userInput.width/2, height-80);
     userInput.input(userInputUp);
 
-     userInput = createInput();
+    userInput = createInput();
     userInput.position(width/2 - userInput.width/2, height-80);
     userInput.input(userInputUp);
 }
