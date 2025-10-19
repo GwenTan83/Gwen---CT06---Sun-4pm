@@ -9,7 +9,7 @@ function setup(){
 }
 
 function draw(){
-    text1(colorPicker.value());
+    text(colorPicker.value());
     textAlign(LEFT);
     textSize(16);
 }
