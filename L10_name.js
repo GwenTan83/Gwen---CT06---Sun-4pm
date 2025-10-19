@@ -61,7 +61,8 @@ let colorPicker;
 let userInput;
 let userText = "Show Text Here"
 
-let userInput2
+let userInput2;
+let userText2 = "Show Text Here"
 
 function setup(){
     createCanvas(600,400);
