@@ -1,6 +1,7 @@
 // write your codes here
 
 let textBox;
+let colorTextPicker;
 
 function setup(){
     createCanvas(200, 200);
