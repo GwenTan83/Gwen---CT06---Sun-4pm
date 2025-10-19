@@ -7,6 +7,8 @@ textBox.input(display);
 
 function setup(){
     createCanvas(200, 200);
+
+    textBox = createInput()
 }
 
 function draw(){
