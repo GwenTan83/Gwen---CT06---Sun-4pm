@@ -73,6 +73,6 @@ function draw(){
 
     text("Enter your name", 50, colorPicker.y+-30);
    
-    text("Enter your age", 50, colorPicker.y+-15)
+    text("Enter your age", 50, colorPicker.y+-8)
 }
 
