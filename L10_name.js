@@ -74,7 +74,7 @@ function setup(){
 
     
     textBox2 = createInput()
-    textBox2.position(width/2, height - 150);
+    textBox2.position(width/2, height - 100);
 }
 
 function draw(){
