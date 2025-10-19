@@ -59,7 +59,7 @@
 let colorPicker;
 
 let userInput;
-let userText = "Show Text Here"
+let userText = "Show Text Here";
 
 
 function setup(){
