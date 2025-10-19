@@ -9,7 +9,7 @@ function setup(){
     textBox = createInput();
     textBox.position(50, 50);
 
-    colorTextPicker
+    colorTextPicker = createColorPicker
 }
 
 function draw(){
