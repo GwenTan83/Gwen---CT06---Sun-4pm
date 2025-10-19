@@ -70,7 +70,7 @@ function setup(){
     colorPicker.position(width/2, height-50);
 
     textBox1 = createInput()
-    
+    textBox
 }
 
 function draw(){
