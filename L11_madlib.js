@@ -21,5 +21,5 @@ function draw(){
 }
 
 function display(){
-    
+    displayText = this.value();
 }
