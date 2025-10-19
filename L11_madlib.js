@@ -8,7 +8,7 @@ function setup(){
 
     textBox = createInput();
     textBox.position(50, 50);
-    textBox.
+    textBox.input(display);
 
     colorTextPicker = createColorPicker('orange');
     colorTextPicker.position(50,100)
