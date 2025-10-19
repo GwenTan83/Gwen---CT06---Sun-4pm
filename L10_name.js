@@ -89,7 +89,7 @@ function draw(){
 
     //labels for input
     text("Enter name: ",);
-    text("Enter age: ",50,);
+    text("Enter age: ",50, textBox2.y + 15);
     
     // display text in rect
     textAlign(CENTER, CENTER);
