@@ -66,7 +66,7 @@ let text1;
 let text2;
 
 function setup(){
-    createCanvas(600,400);
+    createCanvas(600,600);
     colorPicker = createColorPicker('orange');
     colorPicker.position(width/2, height-50);
 
