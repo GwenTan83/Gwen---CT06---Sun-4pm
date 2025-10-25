@@ -47,3 +47,5 @@ for (let i = 1; i < 11; i++){
 let cost = 5;
 // or
 const object = "book";
+// let = able to change
+// 
