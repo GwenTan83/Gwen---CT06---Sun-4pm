@@ -26,4 +26,8 @@ function draw() {
     }
 }
 
-// Syntax: for(let <Variable> ; <LoopConditions> ; <Increment>) {<LoopCode>}\
+// Syntax: for(let <Variable> ; <LoopConditions> ; <Increment>) {<LoopCode>}
+
+for (let i = 1; i < 11; i++){
+    
+}
