@@ -11,4 +11,5 @@ if (ballX - ballSize/2 <= 0 || ballX + ballSize/2 >= height){
     ballSpeedY = ballSpeedY * -1;
 }
 
-no
+noStroke();
+fill
