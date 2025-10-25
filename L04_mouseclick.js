@@ -52,3 +52,4 @@ function mouseDragged(){
     // Draw a circle at mouse position
     ellipse(mouseX, mouseY, 20, 20);
 }
+
