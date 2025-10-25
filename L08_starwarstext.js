@@ -7,3 +7,4 @@ function draw(){
     ballY = ballY + ballSpeedY;
 }
 
+if (ballX - ballSize/2 <= 0 || ballX + ballSize/2 >= height){}
