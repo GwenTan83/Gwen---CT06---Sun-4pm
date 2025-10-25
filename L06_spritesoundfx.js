@@ -21,6 +21,6 @@ function keyPressed(){
 } else if (keyCode === 40){
     circleColor = 0; // Black
 } else{
-    circleColor = 200;
+    circleColor = 200; // Dark Red
 }
 }
