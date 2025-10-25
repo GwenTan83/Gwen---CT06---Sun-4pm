@@ -37,5 +37,6 @@ function setup(){
     createCanvas(400, 400);
     background(220);
     fill(255, 0, 0);
-    
 }
+
+function mouseMoved(){}
