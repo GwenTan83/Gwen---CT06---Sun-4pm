@@ -12,4 +12,5 @@ if (ballX - ballSize/2 <= 0 || ballX + ballSize/2 >= height){
 }
 
 noStroke();
-fill
+fill(255);
+circleColo
