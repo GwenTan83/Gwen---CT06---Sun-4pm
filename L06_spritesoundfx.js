@@ -18,5 +18,7 @@ function keyPressed(){
     if (keyCode === 38){
         cirlceColor = 255; // Red
 // if down arrow is pressed
+} else if (keyCode === 40){
+    
 }
 }
