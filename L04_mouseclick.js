@@ -1,3 +1,3 @@
 // write your codes here
 
-let shape
+let shapeColor = 'blue'; //
