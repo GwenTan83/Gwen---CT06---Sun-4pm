@@ -7,11 +7,11 @@ function draw(){
     ballX = ballX + ballSpeedX;
     ballY = ballY + ballSpeedY;
 
-    if (ballX - ballSize/2 <= 0){
+    if (ballX - ballSize/2 <= 0) {
       ballSpeedX = ballSpeedX * -1;
     }
 
-    if (ballY - ballSize/2 <= 0){
+    if (ballY - ballSize/2 <= 0) {
       ballSpeedY = ballSpeedY * -1;
     }   
 
