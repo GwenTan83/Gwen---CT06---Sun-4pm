@@ -46,3 +46,4 @@ for (let i = 1; i < 11; i++){
 // 2 ways to declare a variable
 let cost = 5;
 // or
+const object = "book";
