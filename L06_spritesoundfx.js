@@ -9,5 +9,6 @@ function setup(){
 function draw(){
     background(220);
     // Red scale, green and blue are 0.
-    fill(circleColor, )
+    fill(circleColor, 0, 0);
+    circle
 }
