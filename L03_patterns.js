@@ -61,7 +61,7 @@ function draw() {
   }
 
   function draw(){
-    
+    let circleDiameter
   }
 
   // Task 4: Grid of Circles
