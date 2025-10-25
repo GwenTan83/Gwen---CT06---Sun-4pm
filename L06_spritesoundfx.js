@@ -1,3 +1,3 @@
 // write your codes here
 
-let circle
+let circleColor = 0; // 0 
