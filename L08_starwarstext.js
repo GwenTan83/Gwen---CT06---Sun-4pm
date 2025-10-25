@@ -1,5 +1,7 @@
 // write your codes here
 
 function draw(){
-    background()
+    background(220)
+    
+    
 }
