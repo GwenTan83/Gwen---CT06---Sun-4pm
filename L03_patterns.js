@@ -56,8 +56,8 @@ function draw() {
   // Task 3: Row of Circles
 
   function setup(){
-    createCanvas(200, 200)
-    background()
+    createCanvas(200, 200);
+    background(220);
   }
 
   // Task 4: Grid of Circles
