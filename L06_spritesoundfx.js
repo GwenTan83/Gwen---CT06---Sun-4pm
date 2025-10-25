@@ -16,6 +16,7 @@ function draw(){
 function keyPressed(){
     // if up arrow pressed
     if (keyCode === 38){
-        cirlceColor = 255
+        cirlceColor = 255; // Red
+        
     }
 }
