@@ -20,5 +20,7 @@ function keyPressed(){
 // if down arrow is pressed
 } else if (keyCode === 40){
     circleColor = 0; // Black
-} else{}
+} else{
+    circleColor = 200;
+}
 }
