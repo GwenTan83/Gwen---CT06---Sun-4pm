@@ -4,5 +4,9 @@ let shapeColor = 'blue'; // Initial color
 
 function setup(){
     createCanvas(400, 400);
-    background
+    background(220);
+}
+
+function draw(){
+    
 }
