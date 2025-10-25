@@ -3,5 +3,6 @@
 function draw(){
     background(220)
     
-    ballX = ballX + ballSpeedX
+    ballX = ballX + ballSpeedX;
+    ballY = ballY 
 }
