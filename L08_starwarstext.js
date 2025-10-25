@@ -11,7 +11,7 @@ if (ballX - ballSize/2 <= 0 || ballX + ballSize/2 >= height){
 }
 
 if (ballY - ballSize/2 <= 0 || ballY + ballSize/2 >= height){
-    ballSpeedY = ballSpeed
+    ballSpeedY = ballSpeedY * -1;
 }
 
 noStroke();
