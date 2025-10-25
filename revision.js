@@ -26,4 +26,4 @@ function draw() {
     }
 }
 
-for
+// Syntax: for(let <Variable>)
