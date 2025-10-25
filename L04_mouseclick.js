@@ -20,3 +20,6 @@ function mouseReleased(){
     shapeColor = 'blue'; // Change color back on release
 }
 
+function setup(){
+    
+}
