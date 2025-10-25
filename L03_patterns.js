@@ -65,7 +65,9 @@ function draw() {
     let numCircles = 5;
     let totalWidth = numCircles * circleDiameter
     // Calculate starting x for centering
-    let startX = (width - totalWidth
+    let startX = (width - totalWidth)
+
+    for (let i = 0; i < numCircles; i++){}
   }
 
   // Task 4: Grid of Circles
