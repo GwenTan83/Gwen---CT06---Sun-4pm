@@ -48,4 +48,4 @@ let cost = 5;
 // or
 const object = "book";
 // let = able to change
-// 
+// const = not able to change
