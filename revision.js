@@ -31,3 +31,5 @@ function draw() {
 for (let i = 1; i < 11; i++){
     // code to loop
 }
+
+// Example 1 
