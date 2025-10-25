@@ -29,5 +29,5 @@ function setup(){
 
 function mousePressed(){
     fill(random(255), random(255), random(255));
-    circle(width)
+    circle(width / 2, height / 2, 80);
 }
