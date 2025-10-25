@@ -68,7 +68,7 @@ function draw() {
     let startX = (width - totalWidth)
 
     for (let i = 0; i < numCircles; i++) {
-      []
+      let x = startX
     }
     
   }
