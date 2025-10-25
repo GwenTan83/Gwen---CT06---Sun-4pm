@@ -3,5 +3,5 @@
 function draw(){
     background(220)
     
-    
+    ballX = ballX 
 }
