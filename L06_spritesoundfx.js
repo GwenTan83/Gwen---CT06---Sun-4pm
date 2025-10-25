@@ -10,5 +10,5 @@ function draw(){
     background(220);
     // Red scale, green and blue are 0.
     fill(circleColor, 0, 0);
-    circle(width / 2, height)
+    circle(width / 2, height / 2, 100);
 }
