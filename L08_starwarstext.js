@@ -11,6 +11,8 @@ if (ballX - ballSize/2 <= 0 || ballX + ballSize/2 >= height){
     ballSpeedY = ballSpeedY * -1;
 }
 
+9
+
 noStroke();
 fill(255);
 circle(ballX, ballY, ballSize);
