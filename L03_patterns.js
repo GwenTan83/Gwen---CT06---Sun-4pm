@@ -55,6 +55,7 @@ function draw() {
 
   // Task 3: Row of Circles
 
+  function setup(){}
 
   // Task 4: Grid of Circles
 
