@@ -8,5 +8,6 @@ function setup(){
 
 function draw(){
     background(220);
-    // Red scal
+    // Red scale, green and blue are 0.
+    fill
 }
