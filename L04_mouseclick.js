@@ -21,17 +21,17 @@
 // }
 
 // Random colour using random()
-function setup(){
-    createCanvas(200, 200);
-    background(220);
-    fill(255);
-    circle(width / 2, height / 2, 80);
-}
+// function setup(){
+//     createCanvas(200, 200);
+//     background(220);
+//     fill(255);
+//     circle(width / 2, height / 2, 80);
+// }
 
-function mousePressed(){
-    fill(random(255), random(255), random(255));
-    circle(width / 2, height / 2, 80);
-}
+// function mousePressed(){
+//     fill(random(255), random(255), random(255));
+//     circle(width / 2, height / 2, 80);
+// }
 
 function setup(){
     createCanvas(400, 400);
