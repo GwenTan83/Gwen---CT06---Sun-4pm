@@ -3,5 +3,9 @@
 let circleColor = 0; // 0 = black, 255 = red
 
 function setup(){
-    createCanvas
+    createCanvas(400, 400);
+}
+
+function draw(){
+    
 }
