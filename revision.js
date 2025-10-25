@@ -29,7 +29,7 @@ function draw() {
 // Syntax: for(let <Variable> ; <LoopConditions> ; <Increment>) {<LoopCode>}
 // Variable = Python's start in range
 // LoopConditions = Python's stop in range
-// Increment = Python's 
+// Increment = Python's step in range
 // The *for loop* enable us to repeat code for n amount of time.
 for (let i = 1; i < 11; i++){
     // code to loop
