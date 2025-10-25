@@ -33,17 +33,21 @@
 //     circle(width / 2, height / 2, 80);
 // }
 
+// function setup(){
+//     createCanvas(400, 400);
+//     background(220);
+//     fill(255, 0, 0);
+// }
+
+// function mouseMoved(){
+//     ellipse(mouseX, mouseY, 10, 10);
+// }
+
 function setup(){
     createCanvas(400, 400);
     background(220);
-    fill(255, 0, 0);
 }
 
-function mouseMoved(){
-    ellipse(mouseX, mouseY, 10, 10);
-}
-
-function setup(){
-    createCanvas(400, 400);
-    background(220);
+function mouseDragged(){
+    
 }
