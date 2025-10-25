@@ -11,7 +11,7 @@ function draw(){
 }
 
     if (ballY - ballSize/2 <= 0 || ballY + ballSize/2 >= height){
-    ballSpeedY = ballSpeedY * -1;
+      ballSpeedY = ballSpeedY * -1;
 }   
 
 noStroke();
