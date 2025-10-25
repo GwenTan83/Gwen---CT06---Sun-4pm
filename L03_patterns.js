@@ -1,12 +1,12 @@
 
-function setup() {
-    createCanvas(600, 400);
-    background(220);
+// function setup() {
+//     createCanvas(600, 400);
+//     background(220);
   //   // noLoop(); // Stops continuous drawing
-}
+// }
 //let spacing=90;
 //let colorValue=0;
-function draw() {
+// function draw() {
     // circle(75,200,100);
     // circle(225,200,100);
     // circle(375,200,100);
@@ -46,7 +46,7 @@ function draw() {
     
 
     
-    }
+    // }
   // Recap 1: Repeating Circles
 
   // Task 1: Colour Gradient
