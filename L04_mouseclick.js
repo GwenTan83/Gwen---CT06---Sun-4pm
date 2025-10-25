@@ -20,7 +20,7 @@
 //     shapeColor = 'blue'; // Change color back on release
 // }
 
-// 
+// Random colour using random()
 function setup(){
     createCanvas(200, 200);
     background(220);
