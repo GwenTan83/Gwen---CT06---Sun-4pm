@@ -8,5 +8,5 @@ function draw(){
 }
 
 if (ballX - ballSize/2 <= 0 || ballX + ballSize/2 >= height){
-    ballSpeedY 
+    ballSpeedY = ballSpeedY * -1
 }
