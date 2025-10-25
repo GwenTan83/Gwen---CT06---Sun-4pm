@@ -35,4 +35,4 @@ for (let i = 1; i < 11; i++){
 // Example 1 
 // To loop from 1 to 10
 // - Python:
-// for i in 
+// for i in range(1, 11, 1)
