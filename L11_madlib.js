@@ -55,7 +55,7 @@ function draw() {
     background(220); 
 
     for(let i=0; i<arr.length; i++) {
-
+        textSize
         text(arr[i], 50, 100 + 15 + i*50 );
     }
     
