@@ -28,7 +28,7 @@
 
 // task 1
 
-let story
+let storyText 
 let textBox1, textBox2, textBox3, textBox4, textBox5; 
 let arr = ["Enter a noun: ", "Enter a verb: ", "Enter a adjective: ", "Enter an adverb:", "Enter a place: "];
 let button;
