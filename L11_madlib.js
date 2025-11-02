@@ -117,7 +117,8 @@ function setup() {
     button = createButton('Generate Story');
     button.position(width/2 - button.width/2, 350);
     button.mousePressed(display);
-    
+
+    storyTemplates = []
 }
 
 function draw() {
