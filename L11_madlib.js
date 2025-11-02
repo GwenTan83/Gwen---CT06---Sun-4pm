@@ -1,25 +1,28 @@
 // write your codes here
 
-let textBox;
-let colorTextPicker;
-let displayText;
+// let textBox;
+// let colorTextPicker;
+// let displayText;
 
-function setup(){
-    createCanvas(400, 400);
+// function setup(){
+//     createCanvas(400, 400);
 
-    textBox = createInput();
-    textBox.position(50, 50);
-    textBox.input(display);
+//     textBox = createInput();
+//     textBox.position(50, 50);
+//     textBox.input(display);
 
-    colorTextPicker = createColorPicker('orange');
-    colorTextPicker.position(50,100)
-}
+//     colorTextPicker = createColorPicker('orange');
+//     colorTextPicker.position(50,100)
+// }
 
-function draw(){
-    background(220);
+// function draw(){
+//     background(220);
 
-}
+// }
 
-function display(){
-    displayText = this.value();
-}
+// function display(){
+//     displayText = this.value();
+// }
+
+/////////////////////////////////////////////
+
