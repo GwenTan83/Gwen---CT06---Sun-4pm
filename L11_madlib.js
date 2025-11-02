@@ -94,6 +94,7 @@ let button;
 let displayText1, displayText2, displayText3, displayText4, displayText5; 
 let arr2 = [];
 let storyText = "";
+let storyTemplates;
 
 function setup() {
     createCanvas(600, 600); 
