@@ -125,6 +125,8 @@ function setup() {
     ];
 
     let template = random(storyTemplates);
+
+    storyText
 }
 
 function draw() {
