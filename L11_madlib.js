@@ -118,9 +118,7 @@ function setup() {
     button.position(width/2 - button.width/2, 350);
     button.mousePressed(display);
 
-    storyTemplates = [
-        "The {adj} {noun} decided to {verb} {adv} at the {place}."
-    ]
+    storyTemplates
 }
 
 function draw() {
