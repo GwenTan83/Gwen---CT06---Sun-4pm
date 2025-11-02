@@ -123,10 +123,6 @@ function setup() {
     "One day, a {adj} {noun} wanted to {verb} {adv} in {place}.",
     "Did you hear about the {adj} {noun} that tried to {verb} {adv} near {place}?"
     ];
-
-    let template = random(storyTemplates);
-
-    storyText = template.replace({noun}, )
 }
 
 function draw() {
@@ -155,4 +151,9 @@ function display(){
     // arr2.push(displayText4);
     // displayText5 = "place: " + textBox5.value();
     // arr2.push(displayText5);
+
+    
+    let template = random(storyTemplates);
+
+    storyText = template.replace({noun}, )
 }
