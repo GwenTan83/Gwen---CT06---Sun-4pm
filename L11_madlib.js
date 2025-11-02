@@ -145,14 +145,14 @@ function draw() {
 }
 
 function display(){
-    displayText1 = "noun: " + textBox1.value();
-    arr2.push(displayText1);
-    displayText2 = "verb: " + textBox2.value();
-    arr2.push(displayText2);
-    displayText3 = "adj: " + textBox3.value();
-    arr2.push(displayText3);
-    displayText4 = "adv: " + textBox4.value();
-    arr2.push(displayText4);
-    displayText5 = "place: " + textBox5.value();
-    arr2.push(displayText5);
+    // displayText1 = "noun: " + textBox1.value();
+    // arr2.push(displayText1);
+    // displayText2 = "verb: " + textBox2.value();
+    // arr2.push(displayText2);
+    // displayText3 = "adj: " + textBox3.value();
+    // arr2.push(displayText3);
+    // displayText4 = "adv: " + textBox4.value();
+    // arr2.push(displayText4);
+    // displayText5 = "place: " + textBox5.value();
+    // arr2.push(displayText5);
 }
