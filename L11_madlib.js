@@ -85,3 +85,6 @@ function display(){
     displayText5 = "place: " + textBox5.value();
     arr2.push(displayText5);
 }
+
+/////////////////////////////////////////////////
+//Task 2
