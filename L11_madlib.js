@@ -26,3 +26,37 @@
 
 /////////////////////////////////////////////
 
+// task 1
+
+let textBox1, textBox2, textBox3, textBox4, textBox5; 
+let arr = ["Enter a noun: ", "Enter a verb: ", "Enter a adjective: ", "Enter an adverb:", "Enter a place: "];
+
+function setup() {
+    createCanvas(600, 600); 
+
+    textBox1 = createInput(); 
+    textBox1.position(width/2 - textBox1.width/2, 100);
+    
+    textBox2 = createInput(); 
+    textBox2.position(width/2 - textBox2.width/2, 150);
+
+    textBox3 = createInput(); 
+    textBox3.position(width/2 - textBox3.width/2, 200);
+
+    textBox4 = createInput(); 
+    textBox4.position(width/2 - textBox4.width/2, 250);
+
+    textBox5 = createInput(); 
+    textBox5.position(width/2 - textBox5.width/2, 300);
+}
+
+function draw() {
+
+    background(220); 
+
+    for(let i=0; i<arr.length; i++) {
+
+        text(arr[i], 50,  )
+    }
+    
+}
