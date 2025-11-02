@@ -55,6 +55,7 @@ function setup() {
     button = createButton('Generate Story');
     button.position(width/2 - button.width/2, 350);
     button.mousePressed(display);
+}
 
 function draw() {
 
@@ -67,7 +68,7 @@ function draw() {
     
     for(let i=0; i < arr2.length; i++){
         textSize(20);
-        text(arr2[i], 50, 400 + i*50);
+        text(arr2[i], 50, 400 + i*30);
     }
 }
 
@@ -82,5 +83,4 @@ function display(){
     arr2.push(displayText4);
     displayText5 = "place: " + textBox5.value();
     arr2.push(displayText5);
-}
 }
