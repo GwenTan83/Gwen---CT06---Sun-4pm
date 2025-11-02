@@ -124,7 +124,7 @@ function setup() {
     "Did you hear about the {adj} {noun} that tried to {verb} {adv} near {place}?"
     ];
 
-    Let
+    let template = random(storyT)
 }
 
 function draw() {
