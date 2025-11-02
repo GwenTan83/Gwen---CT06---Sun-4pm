@@ -119,7 +119,7 @@ function setup() {
     button.mousePressed(display);
 
     storyTemplates = [
-        "The {adj} {noun} decided to {verb} {adv} at the {place},"
+        "The {adj} {noun} decided to {verb} {adv} at the {place}."
     ]
 }
 
