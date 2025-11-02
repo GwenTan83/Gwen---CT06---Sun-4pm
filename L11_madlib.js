@@ -126,7 +126,7 @@ function setup() {
 
     let template = random(storyTemplates);
 
-    storyText = template.replace({noun})
+    storyText = template.replace({noun}, )
 }
 
 function draw() {
