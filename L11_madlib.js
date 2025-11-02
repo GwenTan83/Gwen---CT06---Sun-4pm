@@ -131,15 +131,18 @@ function draw() {
 
     for(let i=0; i<arr.length; i++) {
         textSize(20);
-        text(arr[i], 50, 100 + 15 + i*50);
+        text(arr[i], 100, 100 + 15 + i*50);
     }
     
-    for(let i=0; i < arr2.length; i++){
-        textSize(20);
-        text(arr2[i], 50, 400 + i*30);
-    }
-}
+//     for(let i=0; i < arr2.length; i++){
+//         textSize(20);
+//         text(arr2[i], 50, 400 + i*30);
+//     }
+// }
 
+    textAlign(CENTER, CENTER);
+    text(storyText, width/2, 400);
+}
 function display(){
     // displayText1 = "noun: " + textBox1.value();
     // arr2.push(displayText1);
@@ -155,6 +158,9 @@ function display(){
     
     let template = random(storyTemplates);
 
-    storyText = template.replace("{noun}", textBox1.value());
-    template.replace("{noun}", textBox1.value());
+    storyText = template.replace("{noun}", textBox1.value())
+                        .replace("{verb}", textBox2.value())
+                        .replace("{adj}", textBox3.value())
+                        .replace("{adv}", textBox4.value())
+                        .replace("{place}", textBox5.value());
 }
